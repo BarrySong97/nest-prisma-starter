@@ -30,7 +30,7 @@ support different .env files `.env.development` and `.env.production`
 
 ## notice
 
-> Don't use prisma client command dirrectly.
+> Don't use prisma client command directly.
 > Because prisma doesn't support different .env files, so we use `./scripts/prisma.js` to loaded different .env files.
 
 using prisma client command like this below
