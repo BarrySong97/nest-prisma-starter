@@ -115,7 +115,7 @@ npm run start:prod
 
 ## Rest Api
 
-[RESTful API](http://localhost:3000/api) documentation available with Swagger.
+[RESTful API](http://localhost:3000/api) (localhost:3000/api) documentation available with Swagger.
 
 ## Docker
 
@@ -157,4 +157,5 @@ docker-compose up -d
 # or
 npm run docker
 ```
+
 # nest-prisma-starter
