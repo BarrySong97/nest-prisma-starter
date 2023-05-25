@@ -1,4 +1,4 @@
-# Install Dependencies
+# Install dependencies
 
 Install [Nestjs CLI](https://docs.nestjs.com/cli/usages) to start and [generate CRUD resources](https://trilon.io/blog/introducing-cli-generators-crud-api-in-1-minute)
 
